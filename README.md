@@ -1,4 +1,4 @@
-# P-experiment-1
+# BC-experiment-1
 
 ## 提交要求
 实验作业的命名统一为：X班-学号1-姓名1-学号2-姓名2-伏安特性.docx<br>
